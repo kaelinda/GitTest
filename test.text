@@ -3,3 +3,7 @@ a b c d
 i am a coder
 今天是个好日子
 好风光
+
+我要改文件了
+我改了之后，你先 commit 本地改动，再pull
+拉取我的代码，然后你想push代码，本地就需要commit，此时，你commit的代码是我之前更改的内容。
